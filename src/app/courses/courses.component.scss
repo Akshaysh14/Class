@@ -1,0 +1,22 @@
+.courses {
+    list-style-type: none;
+    width: 10em;
+    // margin: 0 0 2em 0;
+    // padding: 0;
+}
+.courses li {
+    position: relative;
+    cursor: pointer;
+    background-color: #EEE;
+    margin: 1em;
+    padding: 0.3em 0;
+    height: 1em;
+    border-radius: 4px;
+}
+.badge {
+    margin-right: 0.5em;
+    margin-top: 5em;
+    background-color: #3F4F63;
+    color: #ffffff;
+    padding: 5px;
+}
